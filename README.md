@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8ubojce95i953937?svg=true)](https://ci.appveyor.com/project/IvanaLavansk/qa-api-postman)
 
 ## Задача №3: Postman Echo
 Важно: эту задачу нужно выполнять в отдельном репозитории.
